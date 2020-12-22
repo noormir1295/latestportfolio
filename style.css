@@ -379,6 +379,7 @@ p {
 	height: 300px;
 	overflow: hidden;
 	position: relative;
+
 }
 #projects .project-img:after {
 	content: '';
